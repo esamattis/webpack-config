@@ -1,3 +1,7 @@
+# MOVED
+
+To the npm-packages repo https://github.com/valu-digital/npm-packages
+
 # Valu Webpack Config Generator
 
 Webpack config generation with build-in Babel, CSS and template support.
