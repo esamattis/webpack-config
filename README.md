@@ -1,6 +1,6 @@
 # MOVED
 
-To the npm-packages repo https://github.com/valu-digital/npm-packages
+To the npm-packages repo https://github.com/valu-digital/npm-packages/tree/master/packages/webpack-config
 
 # Valu Webpack Config Generator
 
